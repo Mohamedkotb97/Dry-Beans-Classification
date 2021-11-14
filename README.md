@@ -27,3 +27,5 @@ ShapeFactor2 - (SF2)
 ShapeFactor3 - (SF3)
 ShapeFactor4 - (SF4)
 y - the class of the bean. It can be any of BARBUNYA, SIRA, HOROZ, DERMASON, CALI, BOMBAY, and SEKER.
+![__results___15_0](https://user-images.githubusercontent.com/94288063/141685661-61a5a50c-dd28-4b40-9f04-ffe9fab83fb3.png)
+
